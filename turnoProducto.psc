@@ -1,5 +1,5 @@
 Algoritmo turnoProducto
-	//Comentario del programa TURNO PRODUCTO
+
 	Definir turnoLunesManana, turnoLunesTarde, turnoMartesManana, turnoMartesTarde como Cadena
 	Definir producto1, producto2, producto3 como Cadena
 	Definir opcionMenu como Entero
